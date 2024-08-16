@@ -1,0 +1,3 @@
+- Dùng cách ghi này để nhớ: 
+ListSinhVien.Sort((min, max) => max.To.CompareTo(min.To)); => sort list sinh viên từ max to min 
+ListSinhVien.Sort((min, max) => min.To.CompareTo(max.To)); => sort list sinh viên từ min to max 
